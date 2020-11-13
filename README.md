@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="left">
+  <strong>Olá! 👋</strong>   
+</p>
+<p align="left">
+  Meu nome é Guilherme Magno, sou <strong>Desenvolvedor Front-end</strong>, <strong>estudante de UX/UI design</strong>. <br>
+  Sou formado em Desenvolvimento de Sistemas e estou atualmente cursando o Ensino Médio.
+</p> 
 
-<!--
-**devMagno/devMagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>UI Design</strong> e <strong>PHP</strong>.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Brackets</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Git e Github</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🤩 Pretendo aprender: <strong>BEM</strong>, <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Sass</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>NodeJS</strong>, <strong>Bootstrap 4</strong> e <strong>UX/UI</strong>.
+</p>
