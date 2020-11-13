@@ -1,3 +1,5 @@
+<img src="assets/art.png" align="right" min-width="300px" max-width="500px" width="300px">
+
 <p align="left">
   <strong>Olá! 👋</strong>   
 </p>
