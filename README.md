@@ -9,7 +9,7 @@
 </p> 
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>UI Design</strong> e <strong>PHP</strong>.
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>Sass</strong>, <strong>PHP</strong> e <strong>UI Design</strong>.
 </p>
 
 <p align="left">
@@ -17,5 +17,5 @@
 </p>
 
 <p align="left">
-  🤩 Pretendo aprender: <strong>BEM</strong>, <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Sass</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>NodeJS</strong>, <strong>Bootstrap 4</strong> e <strong>UX/UI</strong>.
+  🤩 Pretendo aprender: <strong>BEM</strong>, <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>NodeJS</strong>, <strong>Bootstrap 4</strong> e <strong>UX/UI</strong>.
 </p>
