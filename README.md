@@ -4,7 +4,7 @@
   <strong>Olá! 👋</strong>   
 </p>
 <p align="left">
-  Meu nome é Guilherme Magno, sou <strong>Desenvolvedor Front-end</strong>, <strong>estudante de UX/UI design</strong>. <br>
+  Meu nome é Guilherme Magno, sou <strong>desenvolvedor Front-end</strong> e <strong>estudante de UX/UI design</strong>. <br>
   Sou formado em Desenvolvimento de Sistemas e estou atualmente cursando o Ensino Médio.
 </p> 
 
