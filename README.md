@@ -17,5 +17,6 @@
 </p>
 
 <p align="left">
-  🤩 Pretendo aprender: <strong>BEM</strong>, <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>ReactJS</strong>, <strong>VueJS</strong>, <strong>NodeJS</strong>, <strong>Bootstrap 4</strong> e <strong>UX/UI</strong>.
+  🌱 Estudando atualmente: <strong>CSS Grid</strong>, <strong>Flexbox</strong>, <strong>Sass</strong>, <strong>JavaScript</strong>.
+</p>
 </p>
