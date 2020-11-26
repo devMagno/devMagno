@@ -19,4 +19,7 @@
 <p align="left">
   🌱 Estudando atualmente: <strong>CSS Grid</strong>, <strong>Flexbox</strong>, <strong>Sass</strong>, <strong>JavaScript</strong>.
 </p>
+
+<p align="left">
+  🤩 Pretendo aprender: <strong>BEM</strong>, <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>React.js</strong>, <strong>Vue.js</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>Bootstrap 4</strong>, <strong>Materialize</strong> e <strong>UX/UI</strong>.
 </p>
