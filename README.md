@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>CSS Grid</strong>, <strong>Flexbox</strong>, <strong>Sass</strong> e <strong>JavaScript</strong>.
+  🌱 Estudando atualmente: <strong>BEM</strong>, <strong>CSS Grid</strong>, e <strong>JavaScript</strong>.
 </p>
 
 <p align="left">
