@@ -23,3 +23,12 @@
 <p align="left">
   🤩 Pretendo aprender: <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>React.js</strong>, <strong>Vue.js</strong>, <strong>TypeScript</strong>, <strong>jQuery</strong>, <strong>Bootstrap 4</strong>, <strong>Materialize</strong> e <strong>UX/UI</strong>.
 </p>
+
+<p align="left">
+  <a href="mailto:guilhermertfmagno@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermemagno/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+<p>
