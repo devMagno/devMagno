@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  🤩 Pretendo aprender: <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>WordPress</strong>, <strong>React.js</strong>, <strong>Vue.js</strong>, <strong>TypeScript</strong>, <strong>jQuery</strong>, <strong>Bootstrap 4</strong>, <strong>Materialize</strong> e <strong>UX/UI</strong>.
+  🤩 Pretendo aprender: <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>React.js</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Bootstrap 4</strong>, <strong>Materialize</strong> e <strong>UX/UI</strong>.
 </p>
 
 <p align="left">
