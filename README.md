@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>WordPress</strong>, <strong>BEM</strong>, <strong>CSS Grid</strong>, e <strong>JavaScript</strong>.
+  🌱 Estudando atualmente: <strong>Bootstrap 4</strong>, <strong>WordPress</strong>, <strong>BEM</strong> e <strong>JavaScript</strong>.
 </p>
 
 <p align="left">
