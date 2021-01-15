@@ -9,7 +9,7 @@
 </p> 
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>Sass</strong>, <strong>PHP</strong> e <strong>UI Design</strong>.
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>,  <strong>Sass</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>UI Design</strong>.
 </p>
 
 <p align="left">
