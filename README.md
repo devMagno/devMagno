@@ -22,6 +22,8 @@
 
 <p align="left">
   🤩 Pretendo aprender: <strong>Figma</strong>, <strong>SEO</strong>, <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>React.js</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Materialize</strong> e <strong>UX/UI</strong>.
+  📚 Lendo atualmente: <strong>SEO Prático</strong>.
+</p>
 </p>
 
 <p align="left">
