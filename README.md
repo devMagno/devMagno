@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  📚 Lendo atualmente: <strong>SEO Prático</strong>.
+  📚 Lendo atualmente: <strong>SEO Prático</strong>, por <strong>Adriano Almeida</strong>.
 </p>
 
 <p align="left">
