@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Brackets</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Figma</strong>, <strong>Scout App</strong>, <strong>Git e Github</strong>.
+  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Brackets</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Figma</strong>, <strong>Git</strong> e <strong>Github</strong>.
 </p>
 
 <p align="left">
