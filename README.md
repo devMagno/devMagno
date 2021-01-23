@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  🤩 Pretendo aprender: <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>React</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Node.js</strong> e <strong>UX</strong>.
+  🤩 Pretendo aprender: <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>Babel</strong>, <strong>Webpack</strong>, <strong>React</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Node.js</strong> e <strong>UX</strong>.
 </p>
 
 <p align="left">
