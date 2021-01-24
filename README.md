@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Brackets</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Figma</strong>, <strong>Git</strong> e <strong>Github</strong>.
+  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Figma</strong>, <strong>Git</strong> e <strong>Github</strong>.
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  🤩 Pretendo aprender: <strong>Acessibilidade</strong>, <strong>Gulp</strong>, <strong>Babel</strong>, <strong>Webpack</strong>, <strong>React</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Node.js</strong> e <strong>UX</strong>.
+  🤩 Pretendo aprender: <strong>Acessibilidade</strong>, <strong>Flutter</strong>, <strong>Gulp</strong>, <strong>Babel</strong>, <strong>Webpack</strong>, <strong>React</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Node.js</strong> e <strong>UX</strong>.
 </p>
 
 <p align="left">
