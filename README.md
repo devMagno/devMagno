@@ -9,7 +9,7 @@
 </p> 
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>,  <strong>Sass</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> e <strong>UI Design</strong>.
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>,  <strong>Sass</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>WordPress</strong>, <strong>PHP</strong> e <strong>UI Design</strong>.
 </p>
 
 <p align="left">
@@ -17,11 +17,7 @@
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>SEO</strong>, <strong>WordPress</strong> e <strong>JavaScript</strong>.
-</p>
-
-<p align="left">
-  📚 Lendo atualmente: <strong>SEO Prático</strong>, por Adriano Almeida.
+  🌱 Estudando atualmente: <strong>SEO</strong> e <strong>JavaScript</strong>.
 </p>
 
 <p align="left">
