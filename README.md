@@ -6,22 +6,18 @@
 <p align="left">
   Meu nome é Guilherme Magno, sou <strong>desenvolvedor Front-end</strong> e <strong>estudante apaixonado por UX/UI design</strong>. <br>
   Sou formado em Desenvolvimento de Sistemas e estou atualmente cursando Análise e Desenvolvimento de Sistemas.
-</p> 
-
-<p align="left">
-  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>,  <strong>Sass</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>C#</strong>, <strong>WordPress</strong>, <strong>PHP</strong> e <strong>UI Design</strong>.
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Figma</strong>, <strong>Git</strong> e <strong>Github</strong>.
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>,  <strong>Sass</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong> <strong>C#</strong>, <strong>WordPress</strong>, <strong>PHP</strong> e <strong>SQL</strong>.
 </p>
 
 <p align="left">
-  🌱 Estudando atualmente: <strong>Razor</strong> e <strong>JavaScript</strong>.
+  🛠️ Ferramentas: <strong>WebStorm</strong>, <strong>Visual Studio Code</strong>, <strong>Photoshop</strong>, <strong>Adobe XD</strong>, <strong>Figma</strong> <strong>Gulp</strong>, <strong>Webpack</strong>, <strong>Git</strong> e <strong>Github</strong>.
 </p>
 
 <p align="left">
-  🤩 Pretendo aprender: <strong>Acessibilidade</strong>, <strong>Tailwind CSS</strong>, <strong>Flutter</strong>, <strong>Gulp</strong>, <strong>Babel</strong>, <strong>Webpack</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Vue.js</strong>, <strong>jQuery</strong>, <strong>Node.js</strong> e <strong>UX</strong>.
+  🌱 Estudando atualmente: <strong>.NET Core</strong> e <strong>Hugo</strong>.
 </p>
 
 <p align="left">
