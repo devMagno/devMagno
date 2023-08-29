@@ -4,16 +4,16 @@
   <strong>Olá! 👋</strong>   
 </p>
 <p align="left">
-  Meu nome é Guilherme Magno, sou <strong>desenvolvedor Front-end</strong> e <strong>entusiasta de experiência do usuário</strong>.
-  Atualmente trabalho desenvolvendo plataformas de e-commerce e sites institucionais na stack JavaScript.
+  Meu nome é Guilherme Magno, sou <strong>desenvolvedor web fullstack</strong>, com foco em <strong>frontend e experiência do usuário</strong>. <br />
+  Possuo experiência com Laravel, ASP.NET e hoje estou focado na stack JavaScript, atuando principalmente com React, Next e Node.
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong>Next.js</strong>, <strong>React.js</strong>, <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>Redux</strong>, <strong>Node.js</strong>, <strong>Gatsby</strong>, <strong>GraphQL</strong>, <strong>Jest</strong> e <strong>React Testing Library</strong>.
+  🚀 Tecnologias: <strong>Next.js</strong>, <strong>React.js</strong>, <strong>React Native</strong>, <strong>Electron</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>GraphQL</strong>, <strong>Storybook</strong>.
 </p>
 
 <p align="left">
-  🛠️ Ferramentas/Plataformas: <strong>AWS</strong>, <strong>Vercel</strong>, <strong>Netlify</strong>, <strong>Figma</strong>.
+  🛠️ Ferramentas/Plataformas: <strong>Shopify</strong>, <strong>WordPress</strong>, <strong>AWS</strong>, <strong>Vercel</strong>, <strong>Netlify</strong>.
 </p>
 
 <p align="left">
